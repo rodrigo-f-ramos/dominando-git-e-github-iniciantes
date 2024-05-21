@@ -35,8 +35,15 @@ Este ebook é um recurso valioso para estudantes de programação, desenvolvedor
 
 Olá, sou Rodrigo Ramos, engenheiro de produção e especialista em planejamento e melhoria de processos. Com mais de sete anos de experiência, atuei em diversos segmentos, trabalhando na gestão de fornecedores, planejamento de demanda e business intelligence. Atualmente, lidero projetos de transformação digital e Indústria 4.0 na Finetornos Aerospace, aplicando Business Intelligence e Python para impulsionar a eficiência na indústria. Nos últimos anos, venho me aprofundando em IA e dados para ampliar minhas habilidades e conhecimentos.
 
+## PDF
+
+**O ebook está disponível no formato PDF:**
+
+   [Dominando_Git_e_GitHub_Um_Guia_para_Iniciantes.pdf](https://github.com/rodrigo-f-ramos/dominando-git-e-github-iniciantes/blob/main/Dominando_Git_e_GitHub_Um_Guia_para_Iniciantes.pdf)
+
+
 ## Como Usar Este Repositório
 
-1. Clone este repositório para sua máquina local:
+Clone este repositório para sua máquina local:
    ```sh
    git clone https://github.com/seu-usuario/dominando-git-e-github.git
